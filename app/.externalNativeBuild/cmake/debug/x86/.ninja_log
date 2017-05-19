@@ -1,0 +1,21 @@
+# ninja log v5
+0	44	0	CMakeFiles/native-lib.dir/src/main/cpp/Simon.c.o	d1a67facdee24e82
+0	63	0	CMakeFiles/native-lib.dir/src/main/cpp/encrypt_simon128.c.o	97b8eb76557928b4
+64	114	0	../obj/x86/libnative-lib.so	94b97d113f0d2489
+0	118	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	80d9c187c4a284e9
+118	173	0	../obj/x86/libnative-lib.so	ffad14e121e4d6e9
+0	107	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	80d9c187c4a284e9
+107	182	0	../obj/x86/libnative-lib.so	ffad14e121e4d6e9
+1	110	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	80d9c187c4a284e9
+110	162	0	../obj/x86/libnative-lib.so	ffad14e121e4d6e9
+0	112	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	80d9c187c4a284e9
+112	166	0	../obj/x86/libnative-lib.so	ffad14e121e4d6e9
+0	96	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	72db696bff3309c8
+0	107	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	80d9c187c4a284e9
+107	165	0	../obj/x86/libnative-lib.so	302ce8de74c65e99
+0	97	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	72db696bff3309c8
+97	156	0	../obj/x86/libnative-lib.so	302ce8de74c65e99
+1	173	0	CMakeFiles/native-lib.dir/src/main/cpp/norx.cpp.o	e5a3270866183a97
+173	481	0	../obj/x86/libnative-lib.so	98f68addb62e67
+6	212	0	CMakeFiles/native-lib.dir/src/main/cpp/aez.cpp.o	ce3b147483055aec
+212	657	0	../obj/x86/libnative-lib.so	82c665bd6c7d229f

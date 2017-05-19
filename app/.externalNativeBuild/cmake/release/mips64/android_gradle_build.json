@@ -1,0 +1,59 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/jyadav/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/mips64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/jyadav/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/mips64 --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain /Users/jyadav/Library/Android/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/jyadav/Library/Android/sdk/ndk-bundle/platforms/android-22/arch-mips64  -Dnative_lib_EXPORTS -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/src/main/cpp/simonJambu.cpp",
+					"workingDirectory" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/mips64"
+				},
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain /Users/jyadav/Library/Android/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/jyadav/Library/Android/sdk/ndk-bundle/platforms/android-22/arch-mips64  -Dnative_lib_EXPORTS -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/src/main/cpp/acorn.cpp",
+					"workingDirectory" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/mips64"
+				},
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain /Users/jyadav/Library/Android/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/jyadav/Library/Android/sdk/ndk-bundle/platforms/android-22/arch-mips64  -Dnative_lib_EXPORTS -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/src/main/cpp/norx.cpp",
+					"workingDirectory" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/mips64"
+				},
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain /Users/jyadav/Library/Android/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/jyadav/Library/Android/sdk/ndk-bundle/platforms/android-22/arch-mips64  -Dnative_lib_EXPORTS -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include -isystem /Users/jyadav/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/src/main/cpp/aez.cpp",
+					"workingDirectory" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/mips64"
+				}
+			],
+			"output" : "/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/.externalNativeBuild/cmake/release/obj/mips64/libnative-lib.so",
+			"toolchain" : "16895470810225133563"
+		}
+	},
+	"toolchains" : 
+	{
+		"16895470810225133563" : 
+		{
+			"cCompilerExecutable" : "/Users/jyadav/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/jyadav/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

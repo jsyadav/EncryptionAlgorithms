@@ -1,0 +1,21 @@
+# ninja log v5
+0	63	0	CMakeFiles/native-lib.dir/src/main/cpp/Simon.c.o	ddd6df987770b757
+1	78	0	CMakeFiles/native-lib.dir/src/main/cpp/encrypt_simon128.c.o	687d559d9d88b9b9
+78	121	0	../obj/mips/libnative-lib.so	3c83e7e8e16a637b
+0	155	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	9675555b87db9ba3
+155	204	0	../obj/mips/libnative-lib.so	7d79c2c4e9cffecd
+0	142	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	9675555b87db9ba3
+142	192	0	../obj/mips/libnative-lib.so	7d79c2c4e9cffecd
+0	175	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	9675555b87db9ba3
+175	222	0	../obj/mips/libnative-lib.so	7d79c2c4e9cffecd
+1	146	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	9675555b87db9ba3
+146	192	0	../obj/mips/libnative-lib.so	7d79c2c4e9cffecd
+0	139	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	9675555b87db9ba3
+0	139	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	61c7650cc3dec741
+139	189	0	../obj/mips/libnative-lib.so	ae44cfb08d3a06b1
+0	131	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	61c7650cc3dec741
+131	181	0	../obj/mips/libnative-lib.so	ae44cfb08d3a06b1
+1	336	0	CMakeFiles/native-lib.dir/src/main/cpp/norx.cpp.o	a0d5bfa5a145d06c
+336	512	0	../obj/mips/libnative-lib.so	d0dff7c3d385320
+8	437	0	CMakeFiles/native-lib.dir/src/main/cpp/aez.cpp.o	cf9d79d418e3a311
+437	671	0	../obj/mips/libnative-lib.so	e92c7a187ee6e171

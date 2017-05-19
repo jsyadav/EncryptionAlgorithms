@@ -1,0 +1,21 @@
+# ninja log v5
+1	42	0	CMakeFiles/native-lib.dir/src/main/cpp/Simon.c.o	72aac74aab702bf
+1	52	0	CMakeFiles/native-lib.dir/src/main/cpp/encrypt_simon128.c.o	3edf70c71f7706a0
+52	93	0	../obj/arm64-v8a/libnative-lib.so	450e05731cdc761d
+0	105	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	93b425872ca66631
+105	151	0	../obj/arm64-v8a/libnative-lib.so	fdcc92206f698a92
+0	99	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	93b425872ca66631
+99	142	0	../obj/arm64-v8a/libnative-lib.so	fdcc92206f698a92
+0	100	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	93b425872ca66631
+101	143	0	../obj/arm64-v8a/libnative-lib.so	fdcc92206f698a92
+0	103	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	93b425872ca66631
+103	146	0	../obj/arm64-v8a/libnative-lib.so	fdcc92206f698a92
+1	93	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	68f5ed64cd48f55a
+0	93	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	93b425872ca66631
+93	141	0	../obj/arm64-v8a/libnative-lib.so	9bd1ca83b899e509
+0	96	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	68f5ed64cd48f55a
+96	141	0	../obj/arm64-v8a/libnative-lib.so	9bd1ca83b899e509
+1	112	0	CMakeFiles/native-lib.dir/src/main/cpp/norx.cpp.o	2fe0e19e9c35ebcc
+112	164	0	../obj/arm64-v8a/libnative-lib.so	fd5d85113e0717a6
+10	268	0	CMakeFiles/native-lib.dir/src/main/cpp/aez.cpp.o	32e6c9764d758e79
+268	468	0	../obj/arm64-v8a/libnative-lib.so	271e81185c1f0e67

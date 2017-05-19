@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_66af60c2b91093dae7cae5253e80539cb64d9d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_4ca9d797136bd5e829ac6f5bcd26f5581d402a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_31716fcc1fda70e0217b20e40f97e9eea3ff1356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_db09ab4c51ce01a471e34553b63a521f3cd8bb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_26fbe179ef0b5dee4aecd41a9cb0c9ef354ff5f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_00084a27958427aa290942a9c8e981d30ce384c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_7fe7640e0f71bf70cdf40f44af2d35abc6a71e26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_7d392fd947486f675f20fea5e04902d738b0dc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jyadav/AndroidStudioProjects/EncryptionAlgorithms/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9c16396f00ea7ea45068b30064d3f8dc1f00078a.jar" />
+    </item>
+
+</items>

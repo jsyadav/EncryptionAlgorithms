@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.jyadav.encryptionalgorithms.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Message Size :"/>
+            <EditText
+                android:id="@+id/msg_size"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="32"
+                android:numeric="integer"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Iterations :"/>
+            <EditText
+                android:id="@+id/itr_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1000"
+                android:numeric="integer"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_acorn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Acorn       "/>
+            <TextView
+                android:id="@+id/acorn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Acorn"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_acorn_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Acorn JNI"/>
+            <TextView
+                android:id="@+id/acorn_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Acorn JNI"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_jambu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jambu       "/>
+            <TextView
+                android:id="@+id/jambu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jambu"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_jambu_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jambu JNI"/>
+            <TextView
+                android:id="@+id/jambu_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jambu JNI"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_norx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Norx    "/>
+            <TextView
+                android:id="@+id/norx"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Norx"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_norx_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Norx JNI"/>
+            <TextView
+                android:id="@+id/norx_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Norx JNI"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_aez"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AEZ    "/>
+            <TextView
+                android:id="@+id/aez"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AEZ"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/bt_aez_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AEZ JNI"/>
+            <TextView
+                android:id="@+id/aez_jni"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AEZ JNI"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

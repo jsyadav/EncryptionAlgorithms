@@ -1,0 +1,21 @@
+# ninja log v5
+0	62	0	CMakeFiles/native-lib.dir/src/main/cpp/Simon.c.o	6439974e1aebe391
+0	78	0	CMakeFiles/native-lib.dir/src/main/cpp/encrypt_simon128.c.o	bb84f1ebc59dad54
+78	130	0	../obj/armeabi-v7a/libnative-lib.so	249370818c01ce7d
+1	168	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	e9957c12435aea3b
+168	230	0	../obj/armeabi-v7a/libnative-lib.so	662dbc6d9cfac56c
+0	166	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	e9957c12435aea3b
+166	229	0	../obj/armeabi-v7a/libnative-lib.so	662dbc6d9cfac56c
+0	158	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	e9957c12435aea3b
+158	215	0	../obj/armeabi-v7a/libnative-lib.so	662dbc6d9cfac56c
+1	159	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	e9957c12435aea3b
+159	217	0	../obj/armeabi-v7a/libnative-lib.so	662dbc6d9cfac56c
+0	163	0	CMakeFiles/native-lib.dir/src/main/cpp/simonJambu.cpp.o	e9957c12435aea3b
+0	164	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	de82d1cea0ca4a5a
+164	229	0	../obj/armeabi-v7a/libnative-lib.so	ccd11094e456a86
+0	150	0	CMakeFiles/native-lib.dir/src/main/cpp/acorn.cpp.o	de82d1cea0ca4a5a
+150	213	0	../obj/armeabi-v7a/libnative-lib.so	ccd11094e456a86
+1	184	0	CMakeFiles/native-lib.dir/src/main/cpp/norx.cpp.o	793ef6af833c8df3
+184	250	0	../obj/armeabi-v7a/libnative-lib.so	4fee1704c599e649
+17	538	0	CMakeFiles/native-lib.dir/src/main/cpp/aez.cpp.o	d38179c35107e34b
+538	864	0	../obj/armeabi-v7a/libnative-lib.so	dd8720725bbea03c
